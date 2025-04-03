@@ -1,4 +1,4 @@
-//Palindrom or not
+//Palindrom or not string
 
 const str='malayalam';let newStr='';
 
